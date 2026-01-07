@@ -1,0 +1,40 @@
+ABOUBAKRINE DIALLO
+Montreal, QC, Canada | aboubakrine02@gmail.com | +1-438-276-6760 | github.com/strika-dev
+
+SUMMARY
+Computer Science and Software Engineering student seeking Summer 2026 internship, with a solid technical foundation in programming and hands-on experience in Agile/Scrum environments.
+
+EDUCATION
+Bachelor's in Computer Science and Software Engineering
+Université du Québec à Montréal • Montreal, QC, Canada • Expected Graduation: May 2026
+
+EXPERIENCE
+
+Software Engineer Intern
+Socium | Oct 2024 - Jan 2025 | Dakar, Senegal
+• Developed HR management software, focusing on payroll and recruitment modules
+• Optimized employee performance tracking, improving report loading time by 25%
+• Participated in Scrum sprints, code reviews, and version control via Git in a multi-developer team
+
+Vehicle Return Agent
+Hertz Car Rentals | Apr 2023 - Oct 2023 | Montreal, QC
+• Processed over 60 vehicle returns per day using internal software, with strong attention to detail
+• Handled basic system issues and provided user assistance, gaining relevant IT support experience
+• Demonstrated strong customer service and communication skills in a fast-paced environment
+
+PROJECTS
+
+Automated Job Application System
+• Automated application submissions across multiple platforms, reducing manual workload by 85%
+• Integrated OpenAI API to customize resumes and cover letters, increasing response rate by 60%
+• Created database and REST API to track 300+ applications, with email notifications
+
+Ophthalmology Clinic Management
+• Designed software managing 500+ patient records, integrating appointment scheduling and medical tracking
+• Optimized MySQL queries, achieving 40% faster data retrieval for patient searches
+• Collaborated in an agile team of 4 developers, using Git and conducting weekly code reviews
+
+SKILLS
+Languages: Python, Java, C++, SQL, R, JavaScript, HTML/CSS
+Technologies & Frameworks: REST API, AWS, React, Spring Boot, Flask
+Tools & Environment: Git, GitHub, Docker, Linux
