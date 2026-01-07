@@ -5,8 +5,14 @@ A job application automation system that helps track applications, customize res
 ## What it does
 
 - **Track applications**: Store and manage all your job applications in one place with status updates, notes, and statistics
+  <img width="1896" height="864" alt="image" src="https://github.com/user-attachments/assets/05b34a25-2917-4c2a-afd2-c3169cd00f2f" />
+
 - **AI customization**: Generate tailored resumes and cover letters for each job posting using OpenAI's GPT
+  <img width="1877" height="846" alt="Capture d’écran 2026-01-06 193313" src="https://github.com/user-attachments/assets/545134e3-2239-4d1d-8294-7402e17bb1c7" />
+
 - **Job scraping**: Search and collect job postings from LinkedIn, Indeed, and Glassdoor
+  <img width="1917" height="857" alt="image" src="https://github.com/user-attachments/assets/8feb8136-38ec-41f9-99d1-3971604ee028" />
+
 - **Email notifications**: Get notified when application statuses change
 
 ## Project structure
@@ -53,8 +59,11 @@ The API runs on `http://localhost:5000`. Open `frontend/index.html` in your brow
 ## Configuration
 
 All settings can be configured through the Settings page in the frontend:
+<img width="1877" height="846" alt="Capture d’écran 2026-01-06 193313" src="https://github.com/user-attachments/assets/d6651fff-65c7-4e49-9aaa-a60857c8544c" />
 
 - Your resume/CV text
+  <img width="1554" height="766" alt="Capture d’écran 2026-01-06 193333" src="https://github.com/user-attachments/assets/541f660a-4a43-4d9d-91f2-3ff663d96e3d" />
+
 - OpenAI API key (get one at platform.openai.com)
 - Email settings for notifications (optional)
 - Profile information
