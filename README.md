@@ -8,7 +8,7 @@ A job application automation system that helps track applications, customize res
   <img width="1896" height="864" alt="image" src="https://github.com/user-attachments/assets/05b34a25-2917-4c2a-afd2-c3169cd00f2f" />
 
 - **AI customization**: Generate tailored resumes and cover letters for each job posting using OpenAI's GPT
-  <img width="1877" height="846" alt="Capture d’écran 2026-01-06 193313" src="https://github.com/user-attachments/assets/545134e3-2239-4d1d-8294-7402e17bb1c7" />
+<img width="1560" height="856" alt="Capture d’écran 2026-01-06 193434" src="https://github.com/user-attachments/assets/c1850e08-859b-48c9-a9bb-7880b17633b0" />
 
 - **Job scraping**: Search and collect job postings from LinkedIn, Indeed, and Glassdoor
   <img width="1917" height="857" alt="image" src="https://github.com/user-attachments/assets/8feb8136-38ec-41f9-99d1-3971604ee028" />
